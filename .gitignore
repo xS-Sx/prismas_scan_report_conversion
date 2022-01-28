@@ -1,0 +1,4 @@
+browser_profile
+.DS_store
+*.xlsx
+Pipfile.lock
